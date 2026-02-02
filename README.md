@@ -31,9 +31,6 @@ Here are some projects reflecting my learning journey:
 
 - **AI / ML Learning Repository**  
   Notes, examples, and small experiments
-
-*(More projects coming as I continue learning!)*
-
 ---
 
 ## 🌱 Currently Learning
