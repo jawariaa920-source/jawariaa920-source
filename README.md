@@ -1,7 +1,7 @@
 
 # Hi, I'm Jawaria Awan 👋
 
-🎓 BSCS (6th Semester) student at :contentReference[oaicite:1]{index=1}  
+🎓 BSCS (6th Semester) student at LCWU
 💻 Aspiring Software Developer & AI Enthusiast  
 📍 Lahore, Pakistan  
 
